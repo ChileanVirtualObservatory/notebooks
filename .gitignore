@@ -1,2 +1,6 @@
 *.fits
 *.un~
+*.npy
+
+.ipynb_checkpoints
+
